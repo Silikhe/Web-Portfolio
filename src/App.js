@@ -1,9 +1,11 @@
-import logo from './logo.svg';
+import Navbar from './components/Navbar';
+import Body from './components/Body';
 
 function App() {
   return (
-    <div>
-     <h1>Hi, my name is 01</h1>
+    <div className='bg-[#0A192F]'>
+      <Navbar />
+      <Body/>
     </div>
   );
 }
