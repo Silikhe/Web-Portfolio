@@ -2,20 +2,4 @@
 @tailwind components;
 @tailwind utilities;
 
-@layer base{
-  li{
-    @apply p-4 text-xs font-semibold text-[#cec8c8]
-    hover:text-[#64FFDA]
-  }
-
-  span{
-    @apply  text-[#64FFDA]
-  }
-
-  button{
-    @apply   text-xs p-2  border border-[#64FFDA] rounded-sm font-bold text-[#64FFDA]
-    
-  }
-}
-
 /* font-family: "SF Mono", "Fira Code", "Fira Mono", "Roboto Mono", monospace */
