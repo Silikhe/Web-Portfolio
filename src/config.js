@@ -1,5 +1,5 @@
 module.exports = {
-  email: 'brittany.chiang@gmail.com',
+  email: 'silaswans @gmail.com',
 
   socialMedia: [
     {
@@ -20,8 +20,12 @@ module.exports = {
     },
     {
       name: 'Codepen',
-      url: 'https://codepen.io/silikhe',
+      url: 'https://stackoverflow.com/users/15318393/silikhe',
     },
+    // {
+    //   name: 'Figma',
+    //   url: 'https://stackoverflow.com/users/15318393/silikhe',
+    // },
   ],
 
   navLinks: [

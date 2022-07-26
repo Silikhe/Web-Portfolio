@@ -1,12 +1,13 @@
 ---
 date: '1'
 title: 'Essay Tank'
-cover: './essaytank.png'
+cover: './essay.png'
 github: '#'
 figma: ''
 external: 'https://essaytank.com/'
 tech:
   - PHP
+  - XAMP
   - JS
   - Bootsrap
  

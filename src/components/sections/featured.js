@@ -6,7 +6,7 @@ import sr from '@utils/sr';
 import { srConfig } from '@config';
 import { Icon } from '@components/icons';
 import { usePrefersReducedMotion } from '@hooks';
-import IconFigma from '../icons/figma';
+// import IconFigma from '../icons/figma';
 
 const StyledProjectsGrid = styled.ul`
   ${({ theme }) => theme.mixins.resetList};
@@ -356,7 +356,7 @@ const Featured = () => {
         {featuredProjects &&
           featuredProjects.map(({ node }, i) => {
             const { frontmatter, html } = node;
-            const { external, title, tech, github, figma, cover, cta } = frontmatter;
+            const { external, title, tech, github, cover, cta } = frontmatter;
             const image = getImage(cover);
 
             return (
@@ -388,11 +388,12 @@ const Featured = () => {
                           Learn More
                         </a>
                       )}
-                      {IconFigma && (
-                        <a href={figma} aria-label="GitHub Link">
+                      {/* {figma && (
+                        <a href={figma} aria-label="Figma Link">
                           <Icon name="Figma" />
                         </a>
-                      )}
+                      )} */}
+                      
                       {github && (
                         <a href={github} aria-label="GitHub Link">
                           <Icon name="GitHub" />

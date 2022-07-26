@@ -1,14 +1,14 @@
 ---
 date: '2'
-title: 'Spotify Profile'
-cover: './demo.png'
-github: 'https://github.com/bchiang7/spotify-profile'
-external: 'https://spotify-profile.herokuapp.com/'
+title: 'Juja Hostels'
+cover: './juja.png'
+github: 'https://github.com/Silikhe/hostel'
+figma: '#'
+external: 'https://juja-hostels.netlify.app/'
 tech:
   - React
   - Styled Components
-  - Express
-  - Spotify API
+  - Contentful API
   - Heroku
 ---
 
