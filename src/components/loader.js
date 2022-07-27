@@ -29,7 +29,7 @@ const StyledLoader = styled.div`
       margin: 0 auto;
       fill: none;
       user-select: none;
-      #B {
+      #S {
         opacity: 0;
       }
     }
@@ -60,15 +60,15 @@ const Loader = ({ finishLoading }) => {
       })
       .add({
         targets: '#logo',
-        delay: 500,
-        duration: 300,
+        delay: 100,
+        duration: 200,
         easing: 'easeInOutQuart',
         opacity: 0,
         scale: 0.1,
       })
       .add({
         targets: '.loader',
-        duration: 200,
+        duration: 100,
         easing: 'easeInOutQuart',
         opacity: 0,
         zIndex: -1,

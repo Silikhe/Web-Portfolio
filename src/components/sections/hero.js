@@ -60,14 +60,12 @@ const Hero = () => {
 
   const one = <h1>Hi, my name is</h1>;
   const two = <h2 className="big-heading">Silas Silikhe.</h2>;
-  const three = <h3 className="big-heading">I build things for the Android.</h3>;
+  const three = <h3 className="big-heading">I build for the Android.</h3>;
   const four = (
     <>
       <p>
-        I’m a software engineer specializing in building (and occasionally designing) exceptional
-        digital experiences. Currently, I’m focused on building accessible, human-centered products
-        at{' '}
-        <a href="https://upstatement.com/" target="_blank" rel="noreferrer">
+        I’m a software engineer specializing in building both web and android applications that add impact the community. I’m focused on building accessible, human-centered products. Currently, I am transforming and mentoring young developers at {' '}
+        <a href="https://moringaschool.com/" target="_blank" rel="noreferrer">
           Moringa School
         </a>
         .
@@ -77,10 +75,10 @@ const Hero = () => {
   const five = (
     <a
       className="email-link"
-      href="https://www.newline.co/courses/build-a-spotify-connected-app"
+      href="https://www.behance.net/silassilikhe"
       target="_blank"
       rel="noreferrer">
-      Check out my course!
+      Check out my Designs!
     </a>
   );
 
