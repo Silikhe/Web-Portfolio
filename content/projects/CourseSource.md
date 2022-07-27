@@ -1,15 +1,15 @@
 ---
 date: '2016-04-01'
-title: 'CourseSource'
-github: 'https://github.com/bchiang7/WebDevSpring2016/tree/master/public/project'
-external: ''
+title: 'News Portal Api'
+github: 'https://github.com/Silikhe/newsportal'
+external: 'https://news-portal-silikhe.herokuapp.com/users'
 tech:
-  - Angular
-  - Node
-  - Express
-  - MongoDB
-company: 'Northeastern'
-showInProjects: false
+  - Java  
+  - Spark
+  - PostgreSQL 
+  - Gradle
+company: 'Moringa'
+showInProjects: true
 ---
 
-Web application built on the MEAN (MongoDB, Express, Angular, Node) stack with the intention of providing Northeastern students a better experience browsing the courses offered at Northeastern.
+News Portal is a project where we practice using REST API for querying and retrieving information. As a user, you should be able to view all all departments present, news articles (general or department-specific)  [more about project](https://github.com/Silikhe/newsportal#readme) 

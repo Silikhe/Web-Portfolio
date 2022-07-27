@@ -1,14 +1,13 @@
 ---
 date: '2018-05-01'
-title: 'blistabloc'
-github: ''
-external: 'https://blistabloc.com/'
+title: 'Health Care Mobile App'
+github: 'https://github.com/Silikhe/HealthCare'
+external: ''
 tech:
-  - WordPress
-  - Timber
-  - WooCommerce
-company: 'Scout'
+  - Kotlin
+  - XML
+company: ''
 showInProjects: false
 ---
 
-Custom WordPress theme and e-commerce site built with Timber and WooCommerce for blistabloc, a start-up selling the only reactive shoe insert that prevents blisters from forming.
+A health care app that enables users to get health care services at the confort of their seats.

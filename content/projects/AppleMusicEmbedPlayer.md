@@ -1,14 +1,14 @@
 ---
 date: '2017-12-01'
-title: 'Apple Music Embeddable Web Player Widget'
-github: ''
-external: 'https://tools.applemusic.com/en-us'
+title: 'News Desk Web App'
+github: 'https://github.com/Silikhe/mvc-application'
+external: 'https://silikhe.github.io/mvc-application/'
 tech:
-  - MusicKit.js
+  - AngularJs
   - JS
-  - SCSS
-company: 'Apple'
+  - Bostrap
+company: ''
 showInProjects: true
 ---
 
-Embeddable web player widget for Apple Music that lets users log in and listen to full song playback in the browser leveraging [MusicKit.js](https://developer.apple.com/documentation/musickitjs). Read more about this project on [9to5Mac](https://9to5mac.com/2018/06/03/apple-music-embeddable-web-player-listen-browser/).
+An Angular application built on the clean architecture principles in mind while following the MVC repository pattern and powered by Architecture Components. [Angular.js](https://angular.io/). Read more about this project on [Github](https://github.com/Silikhe/mvc-application#readme).

@@ -1,14 +1,16 @@
 ---
-date: '2017-11-01'
+date: '2020-11-01'
 title: 'BuildForSGD Faster App 2020 '
-github: ''
-external: 'https://www.theverge.com/2017/10/5/16433770/facebook-messenger-apple-music-bot-song-streaming'
+github: 'https://github.com/BuildForSDG/FASTA'
+external: 'https://frontend-fasta-thevetdoctor.vercel.app/'
 tech:
-  - Ember
+  - NextJs
   - JS
-  - SCSS
-company: 'Apple'
+  - NodeJs
+  - Express
+  - Mongo Atlas
+company: ''
 showInProjects: true
 ---
 
-Facebook Messenger chat bot extension featuring authentication and full song streaming from within the Messenger app. Read more about it on [The Verge](https://www.theverge.com/2017/10/5/16433770/facebook-messenger-apple-music-bot-song-streaming).
+Maximizing transport accessibility for all social groups, gender and income level, so that all citizens can access health care, education, jobs, businesses and a lot more with minimal effort, cost, safety and journey time. [Github](https://github.com/BuildForSDG/FASTA/).
