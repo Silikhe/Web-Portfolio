@@ -2,10 +2,10 @@
   "name": "v4",
   "description": "Personal Website",
   "version": "1.0.0",
-  "author": "Silas Silikhe <silaswans@gmail.com>",
+  "author": "Silas Silikhe <silikhesilas@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/bchiang7/v4"
+    "url": "https://github.com/silsilas/portf"
   },
   "keywords": [
     "gatsby"

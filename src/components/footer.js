@@ -106,7 +106,7 @@ const Footer = () => {
 
       <StyledCredit tabindex="-1">
         <a href="https://github.com/silikhe/myride">
-          <div>Silikhe Silas credits Brittany Chiang</div>
+          <div>2022</div>
           
           
 
