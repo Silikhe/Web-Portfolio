@@ -64,7 +64,7 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I’m a software engineer specializing in building both web and android applications that add impact the community. I’m focused on building accessible, human-centered products. Currently, I am transforming and mentoring young developers at {' '}
+        I’m a software engineer specializing in building both web and android applications that add impact the community. I’m focused on building accessible, human-centered products. Currently, I am Transforming, Empowering and Mentoring young developers at {' '}
         <a href="https://moringaschool.com/" target="_blank" rel="noreferrer">
           Moringa School
         </a>
