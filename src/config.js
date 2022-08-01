@@ -45,13 +45,13 @@ module.exports = {
       name: 'Contact',
       url: '/#contact',
     },
-    {
-      name: 'UI Kits',
-      url: '/#contact',
-    },
+    // {
+    //   name: 'UI Kits',
+    //   url: '/#contact',
+    // },
     {
       name: 'Blogs',
-      url: '/pensieve',
+      url: 'https://medium.com/@silikhesilas',
     },
   ],
 

@@ -135,18 +135,19 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Silikhe, I create amaizing solutions for both Android and Web. My
-              interest in web development started back in 2012 when I decided to try editing custom
-              Tumblr themes — turns out hacking together a custom reblog button taught me a lot
-              about HTML &amp; CSS!
+              Hello! My name is Silikhe, I create amaizing solutions for both Android and Web.
             </p>
 
             <p>
-              I also recently{' '}
+              I am a self-taught developer based in Nairobi Kenya, but to perfect my craft I attended several bootcamp {' '}
               <a href="https://www.newline.co/courses/build-a-spotify-connected-app">
-                launched a course
+                Simplon.co
               </a>{' '}
-              that covers everything you need to build a web app with the Spotify API using Node
+              here we dip dived in Mobile Development. Also attended  
+              <a href="https://www.newline.co/courses/build-a-spotify-connected-app">
+                 Moringa School
+              </a>{' '}
+               to perfect my android developement skills.
               &amp; React.
             </p>
 
