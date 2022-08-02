@@ -2,9 +2,8 @@
 date: '3'
 title: 'Apprentice Cloud'
 cover: './demo.png'
-external: 'https://www.newline.co/courses/build-a-spotify-connected-app'
-cta: 'https://www.newline.co/courses/build-a-spotify-connected-app'
-tech:
+external: 'https://www.apprenticecloud.com'
+cta: 'https://www.apprenticecloud.com'
   - PHP
   - YII2
   - Bootstrap
