@@ -140,11 +140,11 @@ const About = () => {
 
             <p>
               I am a self-taught developer based in Nairobi Kenya, but to perfect my craft I attended several bootcamp {' '}
-              <a href="https://www.newline.co/courses/build-a-spotify-connected-app">
+              <a href="www.simplon.co">
                 Simplon.co
               </a>{' '}
               here we dip dived in Mobile Development. Also attended  
-              <a href="https://www.newline.co/courses/build-a-spotify-connected-app">
+              <a href="www.moringaschool.com">
                  Moringa School
               </a>{' '}
                to perfect my android developement skills.
