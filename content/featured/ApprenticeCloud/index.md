@@ -3,7 +3,7 @@ date: '3'
 title: 'Apprentice Cloud'
 cover: './demo.png'
 external: 'https://www.apprenticecloud.com'
-cta: 'https://www.apprenticecloud.com'
+cta: ''
   - PHP
   - YII2
   - Bootstrap
