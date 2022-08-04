@@ -75,7 +75,7 @@ const Hero = () => {
   const five = (
     <a
       className="email-link"
-      href="https://www.behance.net/silassilikhe"
+      href="https://www.behance.net/silvestersilas"
       target="_blank"
       rel="noreferrer">
       Check out my Designs!
