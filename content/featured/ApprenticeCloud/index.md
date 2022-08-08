@@ -4,6 +4,7 @@ title: 'Apprentice Cloud'
 cover: './demo.png'
 external: 'https://www.apprenticecloud.com'
 cta: ''
+tech:
   - PHP
   - YII2
   - Bootstrap
