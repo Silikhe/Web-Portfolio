@@ -107,22 +107,6 @@ const Footer = () => {
       <StyledCredit tabindex="-1">
         <a href="https://github.com/silikhe/myride">
           <div>2022</div>
-          
-          
-
-//           {githubInfo.stars && githubInfo.forks && (
-//             <div className="github-stats">
-//               <span>
-//                 <Icon name="Star" />
-//                 <span>{githubInfo.stars.toLocaleString()}</span>
-//               </span>
-//               <span>
-//                 <Icon name="Fork" />
-//                 <span>{githubInfo.forks.toLocaleString()}</span>
-//               </span>
-//             </div>
-//           )}
-          
         </a>
         
       </StyledCredit>
