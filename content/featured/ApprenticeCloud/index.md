@@ -11,4 +11,4 @@ tech:
   - XAMP
 ---
 
-A bootcamp website portfoli for [Apprentice Cloud](https://www.apprenticecloud.com). At apprentice Cloud, our main objective is to discover, nurture and showcase young Tech Talent; inlocking them to the digital economy.
+A coding bootcamp website portfoli for [Apprentice Cloud](https://www.apprenticecloud.com). At apprentice Cloud, our main objective is to discover, nurture and showcase young Tech Talent; inlocking them to the digital economy.
