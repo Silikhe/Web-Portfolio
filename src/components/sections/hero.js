@@ -60,11 +60,11 @@ const Hero = () => {
 
   const one = <h1>Hi, my name is</h1>;
   const two = <h2 className="big-heading">Silas Silikhe.</h2>;
-  const three = <h3 className="big-heading">I build for the Android.</h3>;
+  const three = <h3 className="big-heading">I build for Android.</h3>;
   const four = (
     <>
       <p>
-        I’m a software engineer specializing in building both web and android applications that add impact the community. I’m focused on building accessible, human-centered products. Currently, I am Transforming, Empowering and Mentoring young developers at {' '}
+        I’m a software engineer specializing in building web and android applications that impact the community. I’m focused on creating accessible, human-centered products. Currently, I am Transforming, Empowering, and Mentoring young developers at {' '}
         <a href="https://moringaschool.com/" target="_blank" rel="noreferrer">
           Moringa School
         </a>
