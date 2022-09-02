@@ -135,23 +135,23 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Silikhe, I create amaizing solutions for both Android and Web.
+               Hello! My name is Silikhe, I create amazing solutions for both Android and Web.
             </p>
 
             <p>
-              I am a self-taught developer based in Nairobi Kenya, but to perfect my craft I attended several bootcamp {' '}
+             I am a self-taught developer based in Nairobi Kenya, but to perfect my craft I attended several Bootcamps. {' '}
               <a href="www.simplon.co">
                 Simplon.co
               </a>{' '}
-              here we dip dived in Mobile Development. Also attended  
+              we dip-dived in Mobile Development. Also attended 
               <a href="www.moringaschool.com">
                  Moringa School
               </a>{' '}
-               to perfect my android developement skills.
-              &amp; React.
+               to perfect my JavaScript &amp; android development skills.
+               React.
             </p>
 
-            <p>Here are a few technologies I’ve been working with recently:</p>
+            <p>Here are a few technologies I have been working with recently:</p>
           </div>
 
           <ul className="skills-list">
